@@ -18,187 +18,108 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github.com/rimsila"><img width="120" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/sila.png"></a>
+<a target="_blank" href="https://github.com/viraksok"><img width="120" align="right" src="https://avatars.githubusercontent.com/u/27959565?s=400&u=0b425591b0ba0a0e901dbdfd32fb8ac20c9f8e9b&v=4"></a>
 
-<!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
+## WELCOME
 
-## CURRICULUM VITAE
+[Profile](#welcome) | [Education](#education) | [My Skill](#my-skill) | [Language](#languages)
 
-[Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
+## Virak Sok / សុខ វីរៈ / 宋威廉 
 
-## Sila Rim / ​​រឹម​ ស៊ីឡា
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virak-sok-b51017206/)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-square&logo=telegram&logoColor=white)](https://t.me/r4kkie_27)
+[![Gmail](https://img.shields.io/badge/%20-sokvirak1606@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sokvirak1606@gmail.com?subject=From%20GitHub&cc=sokvirak1606@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Phone](https://img.shields.io/badge/Phone-+855_966883305-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
+![Gmail](https://img.shields.io/badge/Address-Steung_Meanchey_2,_Khan_Meanchey,_Phnom_Penh,_Cambodia-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/sila-rim-a59135166/)
-[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/sila_rim)
-[![Gmail](https://img.shields.io/badge/%20-rimsila.itc@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rimsila.itc@gmail.com?subject=From%20GitHub&cc=rimsila.itc@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
-[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
-
-Hi There👋, My name is <b>Sila </b>. I'm 24 years old and I've 4+ years experiences with front-end development and achieve more than 20+ various web application and mobile hybrid projects using <b> React JS / React Native - typescript</b>(3+years) and as <b>Web Designer</b>(1year).
-
-I always keep up to date and challenge with new technologies and using Agile methodology in development project(Jira) also i've contributed in open-source on GitHub and Npm 🔭. I like to build react generator tools to make development process fast as much as possible also building my own component libraries to reuse able across project. My skill set up <b>front-end architecture is powerful with popular react framework </b> ensure our project boilerplate is clean structure by using Typescript and unit test(some case) to ensure our project is predicable and maintainable. for consistently and code error checking i've using tool like Eslint/Pretty/StyleLint and Webpack with react code splitting to optimize bundle size to take care about the performance of web applications(google light-house) for better user experience with fully SEO optimization (SSR NextJS) 🌱.
+My name is <b>Virak </b>. I'm 25 years old.
 
 ### Education
 
-- <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
-  </a> </b> - Phnom Penh<br>
-  <b>Major</b> - BA in Information Technology (2015-2019)
+- <b><a href="http://www.rupp.edu.kh/" target="_blank" > RUPP - Royal University of Phnom Penh
+  </a> </b><br>
+  <b>Major</b> Bachelor's Degree of Computer Science <br/>
+  <b>Year:</b> 2014-2018
 
-- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
-  </a> </b> - Phnom Penh<br>
-  <b>Major</b> - Web Application (8 hours/day , 5month)
+- <b><a href="#" target="_blank" > Hun Sen Koh Thom High School
+  </a> </b> Kandal<br>
+  <b>Year:</b> 2011 - 2014
+  
+- <b><a href="#" target="_blank" > Hun Sen Prek Sdey Secondary School
+  </a> </b> Kandal<br>
+  <b>Year</b> 2008 - 2011
+  
+- <b><a href="#" target="_blank" > Hun Sen Prek Sdey Primary School
+  </a> </b> Kandal<br>
+  <b>Year:</b> 2002 - 2008
 
-  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
-    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
-
-- <b><a href="https://camdemo2.wtbidev.co.uk" target="_blank" > Kampong Chheuteal high school :
-  </a> </b> – Kampong Thom<br>
-  <b>Major</b> - General Knowledge - science (2009-2015)
 
 ### My Skill
 
-```tsx
-{
-  Frontend: ['React Typescript', 'React Native', 'Next Js','Umijs','Typescript','DvaJS','AJAX' ,'JSON'],
-  StateManagement: ['Redux Saga/Thunk','Context' , 'Apollo GraphQl'],
-  frontendUI: ['Html5', 'Antd Design', 'MUI', 'Bootstrap 4', 'Css3', 'Sass', 'Less' ,'StyledJs','mdx'],
-  toolsBuildLibrary: ['WebPack' , 'Rollup', 'Npm' ,'Yalc', 'Lerna' , 'Npm', 'yarn'],
-  toolsTest: ['Jest'],
-  toolsDesign: ['Adobe XD'],
-  commonLibrary: ['Axios', 'hook useRequest', 'EChartJs'],
-  toolsLint: ['Eslint' , 'Pretty' , 'StyleLint',],
-  toolsDev: ['vs code', 'postman', 'jira' , 'Trello'],
-  Cloud: ['Vercel','Heroku', 'Netlify','Github Page'],
-  basicLanguages: ['Linux','SocketIo','Java', 'SpringBoot', 'flutter'],
-  myOpenSourceProject: ['Template Starter','Npm Library']
-}
-```
+- <b>🖥 Frontend: </b>
+  <p>
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-square&logo=html5&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-square&logo=CSS3&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-square&logo=JavaScript&logoColor=white" />
+  <p>
+  
+- <b>🛠 Backend: </b>
+  <p>
+    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-square&logo=nestjs&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-square&logo=Node.js&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-square&logo=typescript&logoColor=white" />
+  <p>
+  
+- <b> 📚 Frameworks, Platforms and Libraries: </b>
+  <p>
+    <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-square&logo=.net&logoColor=white" />
+    <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-square&logo=ant-design&logoColor=white" />
+    <img alt="Next Js" src="https://img.shields.io/badge/Next-black?style=for-the-square&logo=next.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-square&logo=react&logoColor=%2361DAFB" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-square&logo=Bootstrap&logoColor=white" /> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-square&logo=TailwindCSS&logoColor=white" />
+    <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-square&logo=jQuery&logoColor=white" />
+  <p>
+  
+- <b>🔒 DB Management: </b>
+  <p>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-square&logo=PostgreSQL&logoColor=white" /> 
+    <img alt="PgAdmin" src="https://img.shields.io/badge/-PgAdmin-4169E1?style=for-the-square&logo=PostgreSQL&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-square&logo=microsoft%20sql%20server&logoColor=white" />
+  <p>
+  
+- <b>⚙️ State Management: </b>
+  <p>
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-square&logo=Redux&logoColor=white" />
+    <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-f52718?style=for-the-square&logo=recoil&logoColor=white" />
+    <img alt="apollographql" src="https://img.shields.io/badge/-apollographql-311C87?style=for-the-square&logo=apollographql&logoColor=white" /> 
+  <p>
+- <b>🖼 UI / UX: </b>
+  <p>
+    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-square&logo=Adobe%20XD&logoColor=#FF61F6" /> 
+  <p>
 
-### Working Experiences
-
-[back to top^](#curriculum-vitae)
-
-- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
-  </a></b> <br>
-  <b>React/ReactNative Developer</b> - August 2020 - July 2021 (1year)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
-
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
-    - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
-    - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
-  - <b>Private Project</b> - 6 (Admin-Portal)
-
-- <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
-  </a></b> <br>
-  <b>React Library</b> 2020 - Present (maintenance)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library.
-
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
-    - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
-    - <a target="_blank" href="https://github.com/rimsila/next-dev-template">next-dev-template</a>: React Ts boilerplate integrate with next library provide all common template and stater auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.   
-    - <a target="_blank" href="https://github.com/rimsila/react-library-template-starter">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with Dumi . 
-
-- <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
-  </a></b> <br>
-  <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript</b>
-
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
-    - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
-    - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
-    - <a target="_blank" href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
-    - <a target="_blank" href="http://startupjungle.org">http://startupjungle.org </a> - slash event (Laravel/Bootstrap4)
-    - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
-    - [Real Estate simulator](http://symulator.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate simulator(processing) (React TS/Antd Design/context)
-    - [Covid19](http://covid19-containment-index.com.s3-website-ap-southeast-1.amazonaws.com/) - Covid19 Containment Index (React/Antd Design/Echart/context)
-
-  - <b>Private Project</b> - 5 (Admin-Portal)
-
-<!-- * -----PlanB---->
-
-- <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PlanB Cambodia:
-  </a></b> <br>
-  <b>Web Designer</b> - Jan, 2017 - Jan, 2018 (1 year)
-  &nbsp;I've worked for a year at japanese company located in Phnom Penh. I've designed a layout and developed a beautiful user-friendly website, including optimized page speed following the
-  flow of business and UX/UI.<br/>
-
-  <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
-
-- <b>Asean City International School:</b><br>
-  <b>Computer Teacher</b> - 2016 - 2017 (6 months)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.<br/>
-  <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
-  Windows.
+- <b>🧰 Tools Build Library: </b>
+  <p>
+    <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-square&logo=Yarn&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-square&logo=npm&logoColor=white" />
+  <p>
+  
+ - <b>🗃️ Other: </b>
+   <p>
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-square&logo=Firebase&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-square&logo=Postman&logoColor=white" /> 
+    <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-square&logo=Trello&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-square&logo=Prettier&logoColor=white" />
+    <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-square&logo=ESLint&logoColor=white" />
+    <img alt="ESLint" src="https://img.shields.io/badge/-StyleLint-4B32C3?style=for-the-square&logo=StyleLint&logoColor=white" />
+   <p>
 
 ### Languages
 
 - <b>Khmer:</b> Native Language
-- <b>English:</b> Efficiency (B1-B2)
-
-### Programming Language:
-
-<p align="left">
-
-<a href="#" target="_blank" > <img align="left" title="javascript" 
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/javascript.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="react native"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/react-native.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="react"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/react.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/typescript.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="redux"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/redux.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="graph"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/graph.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-
-<a href="#" target="_blank"> <img align="left" title="Sass"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Sass.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="less"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/less.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-
-<a href="#" target="_blank"> <img align="left" title="material-ui"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/material-ui.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="antd"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/antd.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="next js"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/cib-next-js.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="Bootstrap"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/Bootstrap.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-
-<a href="#" target="_blank"> <img align="left" title="github"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/github color.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title="gitlab"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/gitlab.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title=" trello"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/trello.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
-<a href="#" target="_blank"> <img align="left" title=" jira"
-  src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/jira.svg" alt="reactnative" width="26px" height="26px"  />
-</a>
+- <b>English:</b> Limited Work Proficiency
 
 </p>
 
-[back to top^](#curriculum-vitae)
+[back to top^](#welcome)
