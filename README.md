@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github.com/viraksok"><img width="120" align="right" src="https://avatars.githubusercontent.com/u/27959565?s=400&u=0b425591b0ba0a0e901dbdfd32fb8ac20c9f8e9b&v=4"></a>
 
 ## WELCOME
-![]([https://bit.ly/3VhK25o])
+
 [Profile](#welcome) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages)
 
 ## Virak Sok / សុខ វីរៈ / 宋威廉 
+[<img src="https://raw.githubusercontent.com/viraksok/viraksok/main/profile-views.svg" height="50"/>](https://github.com/viraksok)
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virak-sok-b51017206/)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-square&logo=telegram&logoColor=white)](https://t.me/r4kkie_27)
