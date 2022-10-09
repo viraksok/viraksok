@@ -37,19 +37,22 @@ Here are some ideas to get you started:
 
 - <b><a href="http://www.rupp.edu.kh/" target="_blank" > RUPP - Royal University of Phnom Penh
   </a> </b><br>
-  <b>Major</b> Bachelor's Degree of Computer Science <br/>
-  <b>Year:</b> 2014-2018
+  <b>Major:</b> Bachelor's Degree of Computer Science <br/>
+  <b>Year:</b> 2014 - 2018
 
 - <b><a href="#" target="_blank" > Hun Sen Koh Thom High School
   </a> </b> Kandal<br>
+  <b>Major:</b> General knowledge <br/>
   <b>Year:</b> 2011 - 2014
   
 - <b><a href="#" target="_blank" > Hun Sen Prek Sdey Secondary School
   </a> </b> Kandal<br>
+  <b>Major:</b> General knowledge <br/>
   <b>Year</b> 2008 - 2011
   
 - <b><a href="#" target="_blank" > Hun Sen Prek Sdey Primary School
   </a> </b> Kandal<br>
+  <b>Major:</b> General knowledge <br/>
   <b>Year:</b> 2002 - 2008
 
 
@@ -115,11 +118,16 @@ Here are some ideas to get you started:
    <p>
 
 ### Working Experiences
+     
+- <b> <a target="_blank" href="https://vtech.one/" target="_blank" >VTech Technology Co., Ltd. 
+  </a></b> <br>
+  <b>Software Engineer </b>
+  <br/>July 2022 - Present
 
-- <b> <a target="_blank" href="https://www.atech-it.com/" target="_blank" >ATech Group Co., Ltd
+- <b> <a target="_blank" href="https://www.atech-it.com/" target="_blank" >ATech Group Co., Ltd.
   </a></b> <br>
   <b>Web Developer</b>
-  <br/>June 2019 - July 2022 (3 years)<br/>
+  <br/>June 2019 - July 2022 (3 years)
  
 - <b> <a target="_blank" href="/" target="_blank" > PHSME Speacialized Bank Ltd
   </a></b> <br>
@@ -133,10 +141,10 @@ Here are some ideas to get you started:
 
 ### Languages
 
-- <b>Khmer:</b> Native Language
-- <b>English:</b> Limited Work Proficiency
+- <b>Khmer   🇰🇭:</b> Native Language
+- <b>English 🇺🇸:</b> Limited Work Proficiency
 
 </p>
 
-[back to top^](#welcome)
+[Back to top ⬆️](#welcome)
 ![](https://bit.ly/3VhK25o)
