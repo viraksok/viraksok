@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github.com/viraksok"><img width="120" align="right" src="https://avatars.githubusercontent.com/u/27959565?s=400&u=0b425591b0ba0a0e901dbdfd32fb8ac20c9f8e9b&v=4"></a>
 
 ## WELCOME
-
-[Profile](#welcome) | [Education](#education) | [My Skill](#my-skill) | [Language](#languages)
+![]([https://bit.ly/3VhK25o])
+[Profile](#welcome) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages)
 
 ## Virak Sok / សុខ វីរៈ / 宋威廉 
 
@@ -114,6 +114,23 @@ My name is <b>Virak </b>. I'm 25 years old.
     <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-square&logo=ESLint&logoColor=white" />
     <img alt="ESLint" src="https://img.shields.io/badge/-StyleLint-4B32C3?style=for-the-square&logo=StyleLint&logoColor=white" />
    <p>
+
+### Working Experiences
+
+- <b> <a target="_blank" href="https://www.atech-it.com/" target="_blank" >ATech Group Co., Ltd
+  </a></b> <br>
+  <b>Web Developer</b>
+  <br/>June 2019 - July 2022 (3 years)<br/>
+ 
+- <b> <a target="_blank" href="/" target="_blank" > PHSME Speacialized Bank Ltd
+  </a></b> <br>
+  <b>IT Programmer</b>
+  <br/>June 2018 - June 2019 (1year)
+  
+- <b> <a target="_blank" href="https://www.ckcc.edu.kh/" target="_blank" > CKCC - Cambodia Korea Coperation Center
+  </a></b> <br>
+  <b>Lab Assistant</b>
+  <br/>March 2017 - March 2018 (1year)
 
 ### Languages
 
