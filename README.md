@@ -128,7 +128,7 @@ My name is <b>Virak </b>. I'm 25 years old.
   <b>IT Programmer</b>
   <br/>June 2018 - June 2019 (1year)
   
-- <b> <a target="_blank" href="https://www.ckcc.edu.kh/" target="_blank" > CKCC - Cambodia Korea Coperation Center
+- <b> <a target="_blank" href="https://www.ckcc.edu.kh/" target="_blank" >Cambodia Korea Coperation Center
   </a></b> <br>
   <b>Lab Assistant</b>
   <br/>March 2017 - March 2018 (1year)
