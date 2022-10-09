@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [Profile](#welcome) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages)
 
-## Virak Sok / សុខ វីរៈ / 宋威廉 
+## Virak Sok - សុខ វីរៈ
 [<img src="https://raw.githubusercontent.com/viraksok/viraksok/main/profile-views.svg" height="25"/>](https://github.com/viraksok)
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virak-sok-b51017206/)
@@ -111,6 +111,7 @@ Here are some ideas to get you started:
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-square&logo=Firebase&logoColor=white" />
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-square&logo=Postman&logoColor=white" /> 
     <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-square&logo=Trello&logoColor=white" />
+    <img alt="ClickUp" src="https://img.shields.io/static/v1?style=for-the-square&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-square&logo=Prettier&logoColor=white" />
     <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-square&logo=ESLint&logoColor=white" />
     <img alt="ESLint" src="https://img.shields.io/badge/-StyleLint-4B32C3?style=for-the-square&logo=StyleLint&logoColor=white" />
