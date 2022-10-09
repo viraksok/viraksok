@@ -141,7 +141,7 @@ Here are some ideas to get you started:
 
 ### Languages
 
-- <b>Khmer   🇰🇭:</b> Native Language
+- <b>Khmer   🇰🇭:</b> Native / Bilingual Proficiency
 - <b>English 🇺🇸:</b> Limited Work Proficiency
 
 </p>
