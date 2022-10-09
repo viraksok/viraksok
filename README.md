@@ -132,12 +132,12 @@ Here are some ideas to get you started:
 - <b> <a target="_blank" href="/" target="_blank" > PHSME Speacialized Bank Ltd
   </a></b> <br>
   <b>IT Programmer</b>
-  <br/>June 2018 - June 2019 (1year)
+  <br/>June 2018 - June 2019 (1 year)
   
 - <b> <a target="_blank" href="https://www.ckcc.edu.kh/" target="_blank" >Cambodia Korea Coperation Center
   </a></b> <br>
   <b>Lab Assistant</b>
-  <br/>March 2017 - March 2018 (1year)
+  <br/>March 2017 - March 2018 (1 year)
 
 ### Languages
 
