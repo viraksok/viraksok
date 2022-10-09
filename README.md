@@ -92,7 +92,6 @@ Here are some ideas to get you started:
   
 - <b>⚙️ State Management: </b>
   <p>
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-square&logo=Redux&logoColor=white" />
     <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-f52718?style=for-the-square&logo=recoil&logoColor=white" />
     <img alt="apollographql" src="https://img.shields.io/badge/-apollographql-311C87?style=for-the-square&logo=apollographql&logoColor=white" /> 
   <p>
