@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github.com/viraksok"><img width="120" align="right" src="https://avatars.githubusercontent.com/u/27959565?s=400&u=0b425591b0ba0a0e901dbdfd32fb8ac20c9f8e9b&v=4"></a>
+<!--<a target="_blank" href="https://github.com/viraksok"><img width="120" align="right" src="https://avatars.githubusercontent.com/u/27959565?s=400&u=0b425591b0ba0a0e901dbdfd32fb8ac20c9f8e9b&v=4"></a>-->
 
 ## WELCOME
 
