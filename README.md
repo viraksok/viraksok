@@ -96,6 +96,7 @@ https://md2pdf.netlify.app/
  - <b>🗃️ Other: </b>
    <p>
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-square&logo=Firebase&logoColor=white" />
+    <img alt="socketdotio" src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-square&logo=socketdotio&logoColor=white" /> 
     <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-square&logo=Postman&logoColor=white" /> 
     <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-square&logo=Trello&logoColor=white" />
     <img alt="ClickUp" src="https://img.shields.io/static/v1?style=for-the-square&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=" />
