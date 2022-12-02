@@ -16,9 +16,9 @@ https://md2pdf.netlify.app/
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virak-sok-b51017206/)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-square&logo=telegram&logoColor=white)](https://t.me/r4kkie_27)
-[![Gmail](https://img.shields.io/badge/%20-sokvirak1606@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:sokvirak1606@gmail.com?subject=From%20GitHub&cc=sokvirak1606@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![Phone](https://img.shields.io/badge/Phone-+855_966883305-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:855319465222)
-![Gmail](https://img.shields.io/badge/Address-Steung_Meanchey_2,_Khan_Meanchey,_Phnom_Penh,_Cambodia-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)
+[![Gmail](https://img.shields.io/badge/%20-sokvirak1606@gmail.com-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=white)](mailto:sokvirak1606@gmail.com?subject=From%20GitHub&cc=sokvirak1606@gmail&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Phone](https://img.shields.io/badge/Phone-+855_966883305-black?color=14171A&labelColor=blue&logoColor=white)](tel:855319465222)
+![Gmail](https://img.shields.io/badge/Address-Steung_Meanchey_2,_Khan_Meanchey,_Phnom_Penh,_Cambodia-black?color=14171A&labelColor=ffcc80&logoColor=white)
 
 ### Education
 
