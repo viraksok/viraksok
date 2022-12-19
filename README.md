@@ -12,7 +12,6 @@ https://md2pdf.netlify.app/
 [Profile](#welcome) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages)
 
 ## Virak Sok - សុខ វីរៈ
-<!--[<img src="https://raw.githubusercontent.com/viraksok/viraksok/main/profile-views.svg" height="25"/>](https://github.com/viraksok)-->
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virak-sok-b51017206/)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-square&logo=telegram&logoColor=ffffff)](https://t.me/r4kkie_27)
