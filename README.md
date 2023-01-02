@@ -64,10 +64,11 @@ Hi There👋, My name is <b>Virak </b>. I'm 27 years old and more than 3+ years 
   
 - <b> 📚 Frameworks, Platforms and Libraries: </b>
   <p>
-    <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-square&logo=.net&logoColor=white" />
-    <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-square&logo=ant-design&logoColor=white" />
+    <img alt="Vue Js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-square&logo=vuedotjs&logoColor=4FC08D " />
     <img alt="Next Js" src="https://img.shields.io/badge/Next-black?style=for-the-square&logo=next.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-square&logo=react&logoColor=%2361DAFB" />
+    <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-square&logo=.net&logoColor=white" />
+    <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-square&logo=ant-design&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-square&logo=Bootstrap&logoColor=white" /> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-square&logo=TailwindCSS&logoColor=white" />
     <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-square&logo=jQuery&logoColor=white" />
